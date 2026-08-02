@@ -1,6 +1,6 @@
 cask "momentary" do
-  version "0.1.0"
-  sha256 "dc1dda2a82fde9b1f76d59f65f0204134f4f2b62da102f5286a6a2ada4d547e5"
+  version "0.2.0"
+  sha256 "db34f272fa32360f34aeeb137607eae01d12063d5738b626f763fbdd1340e718"
 
   url "https://github.com/dennistimmermann/momentary/releases/download/v#{version}/Momentary.dmg"
   name "Momentary"
