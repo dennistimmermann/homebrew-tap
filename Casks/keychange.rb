@@ -1,6 +1,6 @@
 cask "keychange" do
-  version "0.10.0"
-  sha256 "72f0883778aafb4883dd6acbb54999c5608cc89d70c4ada978f9e10d1b6a8ca0"
+  version "0.11.0"
+  sha256 "445e649ba8d6c140366bfa71e0de5c3b8ef0715fbcd118dfe5697ba439eb02c7"
 
   url "https://github.com/dennistimmermann/keychange/releases/download/v#{version}/Keychange.dmg"
   name "Keychange"
